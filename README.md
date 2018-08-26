@@ -1,1 +1,1 @@
-# swiftaveiro.workshops.github.io
+# Swift Aveiro Workshops
